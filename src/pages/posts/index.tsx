@@ -1,7 +1,7 @@
-export default function Home() {
+export default function Posts() {
   return (
     <div className={'container mx-auto'}>
-      Home
+      Posts
     </div>
   );
 }
