@@ -1,0 +1,1 @@
+# nextjs-locales-pages-mode-init
